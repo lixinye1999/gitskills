@@ -1,1 +1,1 @@
-Creating a new branch is quick.dev operate.
+Creating a new branch is quick and simple.dev operate.
